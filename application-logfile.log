@@ -1,0 +1,21 @@
+114483 [http-nio-8081-exec-1] INFO  i.g.b.demoktrest.utils.LogService - getCustomer method: GET - args: params
+127425 [http-nio-8081-exec-1] INFO  i.g.b.demoktrest.utils.LogService - starting chain
+49426 [http-nio-8081-exec-2] INFO  i.g.b.demoktrest.utils.LogService - getCustomer method: GET - args: params
+61811 [http-nio-8081-exec-2] INFO  i.g.b.demoktrest.utils.LogService - starting chain
+78116 [http-nio-8081-exec-2] INFO  i.g.b.demoktrest.utils.LogService - Step1 Handler
+78117 [http-nio-8081-exec-2] INFO  i.g.b.demoktrest.utils.LogService - Step2 Handler
+78117 [http-nio-8081-exec-2] INFO  i.g.b.demoktrest.utils.LogService - Step3 Handler
+1579363 [http-nio-8081-exec-4] INFO  i.g.b.demoktrest.utils.LogService - getCustomer method: GET - args: params
+1720544 [http-nio-8081-exec-4] INFO  i.g.b.demoktrest.utils.LogService - starting chain
+1737440 [http-nio-8081-exec-4] INFO  i.g.b.demoktrest.utils.LogService - Step1 Handler
+1737440 [http-nio-8081-exec-4] INFO  i.g.b.demoktrest.utils.LogService - Step2 Handler
+1737440 [http-nio-8081-exec-4] INFO  i.g.b.demoktrest.utils.LogService - Step3 Handler
+1747991 [http-nio-8081-exec-6] INFO  i.g.b.demoktrest.utils.LogService - getCustomer method: GET - args: params
+1758619 [http-nio-8081-exec-6] INFO  i.g.b.demoktrest.utils.LogService - starting chain
+11981483 [http-nio-8081-exec-6] INFO  i.g.b.demoktrest.utils.LogService - Step1 Handler
+11988159 [http-nio-8081-exec-6] INFO  i.g.b.demoktrest.utils.LogService - Step2 Handler
+11990496 [http-nio-8081-exec-6] INFO  i.g.b.demoktrest.utils.LogService - Step3 Handler
+31007 [http-nio-8081-exec-1] INFO  i.g.b.demoktrest.utils.LogService - test call
+15540 [http-nio-8081-exec-3] INFO  i.g.b.demoktrest.utils.LogService - test call
+35074 [http-nio-8081-exec-4] INFO  i.g.b.demoktrest.utils.LogService - test call
+15820 [http-nio-8081-exec-2] INFO  i.g.b.demoktrest.utils.LogService - test call
